@@ -31,8 +31,14 @@
                 <a-entity slider position="0 0.10 0"></a-entity>
                 <a-entity id="sphereButton" button="label: sphere" position="-0.15 0 0"></a-entity>
                 <a-entity id="boxButton" button="label: box" position="0 0 0"></a-entity>
-                <a-entity id="torusButton" button="label: torus" position="0.15 0 0"></a-entity>
-                <a-entity id="darkModeButton" button="label: Dark Mode; width: 0.20; toggable: true" position="0 -0.10 0"></a-entity>
+                <a-entity id="torusButton" button="label: torus" position="0.15 0 0"></a-entity>                
+                <a-entity text="value: Pinch the Ball to move it!" position="0.21 0.15 0"></a-entity>
+                <a-entity text="value: Thumbs Up for blue!" position="0.21 -0.18 0"></a-entity>
+                <a-entity text="value: Point for yellow!" position="0.21 -0.08 0"></a-entity>
+                <a-entity text="value: Grip for Green!" position="0.21 -0.13 0"></a-entity>
+                <a-entity text="value: Surfer for Red!" position="0.21 -0.23 0"></a-entity>
+                <a-entity id="torusGeometry" position="0.21 -0.15 -0.02" rotation="0 0 0" geometry="primitive: torus; radius: 0.1; radius-tubular: 0.04" material="color: white" size-change visible="true" scale="0.5 0.5 0.5"></a-entity>
+
             </a-entity>
             <a-entity laser-controls="hand: left" hand-tracking-controls="hand: left"></a-entity>
             <a-entity laser-controls="hand: right" hand-tracking-controls="hand: right"></a-entity>
