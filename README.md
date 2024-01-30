@@ -18,7 +18,7 @@ Este proyecto también fue una oportunidad para el trabajo en equipo. Junto a un
 
 - **Hand Tracking Básico:** Implementación exitosa del seguimiento de manos en A-Frame, basándonos en ejemplos preexistentes.
 - **Funcionalidades Adicionales:** Incorporamos gestos para realizar acciones con una sola mano, como seleccionar y desplazar objetos, ofreciendo una experiencia de usuario mejorada.
-- **Interacciones Intuitivas:** Desarrollamos interacciones significativas con objetos virtuales, permitiendo acciones como selección, manipulación y más, respondiendo adecuadamente a los gestos de la mano.
+- **Interacciones Intuitivas:** Desarrollamos interacciones significativas con objetos virtuales, permitiendo acciones respondiendo adecuadamente a los gestos de la mano, como el **Señalar**, el **ThumbsUp**, el **Puño** y el **Shaka**(Saludo Surfero).
 
 ## Documentación y Comentarios
 
@@ -26,8 +26,8 @@ Hemos documentado claramente el código implementado, destacando las soluciones 
 
 ## Enlace al Proyecto
 
-[Visita nuestro proyecto en GitHub](https://github.com/usuario/proyecto-aframe-handtracking)
+[Visita nuestro proyecto en GitHub](https://github.com/leogo22mz/AframeAttempt)
 
 ---
 
-Agradecemos la oportunidad de aprender y desarrollar este proyecto, que no solo nos permitió aplicar conocimientos teóricos, sino también adquirir habilidades prácticas valiosas en el campo de la realidad virtual y aumentada.
+Aprender y desarrollar este proyecto nos permitió aplicar conocimientos teóricos previos, y también adquirir habilidades prácticas en el campo de la realidad virtual y aumentada, los cuales son ahora de los más emergentes y prometedores del mercado.
