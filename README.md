@@ -1,23 +1,19 @@
 # Proyecto de Realidad Aumentada con A-Frame y Hand Tracking
 
+## Captura de pantalla del Ejercicio
+![Captura de pantalla del proyecto](screenshot.PNG)
 ## Descripción del Proyecto
 
-Este proyecto ha sido desarrollado como parte de nuestra asignatura de Realidad Virtual y Aumentada, con el objetivo de explorar y aplicar las capacidades de A-Frame en la creación de experiencias inmersivas utilizando el seguimiento de manos (Hand Tracking). A través de esta implementación, buscábamos no solo cumplir con los requisitos básicos del curso, sino también superarlos mediante la adición de funcionalidades innovadoras que mejoran la interacción del usuario con el entorno virtual.
-
-## Desafíos y Aprendizajes
-
-Durante el desarrollo del proyecto, enfrentamos varios desafíos, especialmente al implementar los gestos para el seguimiento de manos. Este aspecto resultó ser un reto significativo, pero gracias a la ayuda de un tutorial de YouTube, pudimos superar los obstáculos y aprender mucho en el proceso. La implementación de gestos, como el pellizco para seleccionar objetos y el deslizar para moverse por la escena, fue particularmente gratificante.
-
-Otro aspecto que abordamos con éxito fue la manipulación de objetos virtuales, permitiendo al usuario agarrar, soltar y manipular entidades dentro del entorno virtual de manera intuitiva. Esta funcionalidad se implementó de manera relativamente sencilla y mejoró significativamente la experiencia del usuario.
+Este proyecto ha sido desarrollado como parte de nuestra asignatura de Desarrollo de Interfaces (DAD), con el objetivo de explorar y aplicar las capacidades de A-Frame a modo de primer contacto con no sólo A-Frame, sino con la tecnología 3D enfocada a la realidad expandida. Además, se nos encomendó aprende sobre la creación de experiencias inmersivas utilizando el seguimiento de manos (Hand Tracking).
 
 ## Trabajo Colaborativo
 
-Este proyecto también fue una oportunidad para el trabajo en equipo. Junto a un compañero, decidimos invertir tiempo extraescolar para colaborar y profundizar en nuestro entendimiento de A-Frame, así como en sus aplicaciones en realidad virtual y aumentada. Utilizando los visores Meta Quest 2, pudimos experimentar de primera mano las posibilidades y desafíos que presenta el desarrollo de aplicaciones inmersivas.
+Siendo este proyecto una tecnología nueva para nosotros, sumado a la necesidad de compartir visores en clase, aun siendo una actividad de entrega individual nos juntamos en clase para comparar y compartir evoluciones de la escena virtual de cada. Además, junto a un compañero, decidimos invertir tiempo por la mañana para colaborar y profundizar en nuestro entendimiento de A-Frame.
 
 ## Funcionalidades Implementadas
 
-- **Hand Tracking Básico:** Implementación exitosa del seguimiento de manos en A-Frame, basándonos en ejemplos preexistentes.
-- **Funcionalidades Adicionales:** Incorporamos gestos para realizar acciones con una sola mano, como seleccionar y desplazar objetos, ofreciendo una experiencia de usuario mejorada.
+- **Hand Tracking Básico:** Implementación exitosa del seguimiento de manos en A-Frame, basándonos en ejemplos preexistentes, apartado sencillo pues es una funcionalidad básica de los visores con los que trabajamos (MetaQuest2).
+- **Funcionalidades Adicionales (Pinchable):** Incorporamos la funcion de **Pinchable** para mover objetos/entities de AFrame con una unica mano.
 - **Interacciones Intuitivas:** Desarrollamos interacciones significativas con objetos virtuales, permitiendo acciones respondiendo adecuadamente a los gestos de la mano, como el **Señalar**, el **ThumbsUp**, el **Puño** y el **Shaka**(Saludo Surfero).
 
 ## Documentación y Comentarios
